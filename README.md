@@ -4,15 +4,15 @@
 
 ## Kattis
 
-|Name|Difficulty|Link|
-|---|---|---|
-||||
+|Name|Language|Difficulty|Link|
+|---|---|---|---|
+|||||
 
 ## Leetcode
 
-|Number|Name|Difficulty|Tags|Link|
-|---|---|---|---|---|
-||||||
+|Number|Name|Language|Difficulty|Tags|Link|
+|---|---|---|---|---|---|
+|||||||
 
 ## Over the Wire Wargames
 
