@@ -11,9 +11,34 @@ def knapsack(knapsackVolume: int, items: list[tuple[int, int]]) -> list[int]:
     in the items list, each item is a tuple of (price, volume)
     returns a list of items
     """
-    subInstances = [[0 for __ in range(items + 1)] for _ in range(knapsackVolume + 1)]
-    pass
+    subInstances = [
+        [0 for __ in range(len(items) + 1)] for _ in range(knapsackVolume + 1)
+    ]  # init 2D array
+
+    # base case already initialized
+    for i in range(1, len(subInstances)):  # i is number of capacity
+        for j in range(1, len(subInstances[0])):  # j is objects prefix considered
+            # see if current item can fit in bag
+            if items[j - 1][1] <= i:
+                # there is space, take item!
+                subInstances[i][j] = max(
+                    subInstances[i][j - 1],
+                    subInstances[i - items[j - 1][1]][j - 1] + items[j - 1][0],
+                )
+            else:
+                # no space, don't take item
+                subInstances[i][j] = subInstances[i][j - 1]
+
+    # reconstruct the items taken
+    currWeight = len(subInstances) - 1
+    objectTaken = []
+    for i in range(len(subInstances[0]) - 1, 0, -1):
+        if subInstances[currWeight][i] != subInstances[currWeight][i - 1]:
+            objectTaken.append(items[i - 1])
+            currWeight -= items[i - 1][1]
+
+    return objectTaken
 
 
-if __self__ == "__main__":
-    pass
+if __name__ == "__main__":
+    print(knapsack(7, [(2, 3), (2, 4), (4, 5), (1, 2)]))
