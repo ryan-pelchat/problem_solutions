@@ -6,3 +6,6 @@
 |dihedralgroup|Python3|2.5|[link](https://open.kattis.com/problems/dihedralgroup?editresubmit=14991552)|
 |leapfrogencryption|Python3|2.5|[link](https://open.kattis.com/problems/leapfrogencryption?editresubmit=14991576)|
 |letterballoons|Python3|4.8|[link](https://open.kattis.com/problems/letterballoons?editresubmit=14991618&tab=metadata)|
+
+
+|printingNeatly|Python3|Dynamic Programming|

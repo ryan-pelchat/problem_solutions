@@ -26,4 +26,3 @@
 
 |Name|Language|Tags|
 |---|---|---|
-|printingNeatly|Python3|Dynamic Programming|
