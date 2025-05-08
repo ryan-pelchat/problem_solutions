@@ -5,9 +5,9 @@ Problem URL:
 Difficulty:
 Category:
 
-Author:
+Author: Ryan Pelchat
 Date Solved:
-Language:
+Language: Python3
 
 Problem Summary:
     ...
