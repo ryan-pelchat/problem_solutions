@@ -2,8 +2,4 @@ test.py
 /toSort/*
 temp.txt
 overTheWireWargamesPasswords.txt
-.vscode/*
 /.vscode/*
-/.vscode/launch.json
-/.vscode/settings.json
-/.vscode/tasks.json
