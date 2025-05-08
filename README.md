@@ -13,6 +13,7 @@
 |---|---|---|---|---|---|
 |1|Two Sum|Python3|Easy|--|[Link](https://leetcode.com/problems/two-sum/description/)|
 |3|Longest Substring Without Repeating Characters|Python3|Medium|Hash Table, String, Sliding Window|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
+|20|Valid Parentheses|Python3|Easy|--|[Link](https://leetcode.com/problems/valid-parentheses/description/)|
 
 
 ## Over the Wire Wargames

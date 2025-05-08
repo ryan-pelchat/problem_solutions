@@ -24,7 +24,7 @@ Space Complexity: 0(...)
     O(N)
 
 Notes:
-The timestamps are the amount of time I took to come up with that solution
+    The timestamps are the amount of time I took to come up with that solution
 """
 
 from typing import List

@@ -22,5 +22,5 @@ Time Complexity: 0(...)
 Space Complexity: 0(...)
 
 Notes:
-
+    The timestamps are the amount of time I took to come up with that solution
 """
