@@ -7,7 +7,6 @@
 |Name|Language|Difficulty|Link|
 |---|---|---|---|
 
-
 ## Leetcode
 
 |Number|Name|Language|Difficulty|Tags|Link|
