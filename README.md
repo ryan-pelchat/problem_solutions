@@ -1,6 +1,6 @@
 # Problem Solutions
 
-- This repository the solutions to the coding problems that I have attempted to solve.
+- This repository contains the solutions to problems that I have attempted to solve.
 
 ## Kattis
 
@@ -13,14 +13,11 @@
 |Number|Name|Language|Difficulty|Tags|Link|
 |---|---|---|---|---|---|
 
-
 ## Over the Wire Wargames
 
-[Over the Wire Wargames](https://overthewire.org/wargames/bandit/bandit1.html)
-
-|Level|Code|
-|---|---|
-|||
+- <https://overthewire.org/wargames/>
+- Note, due to the rules stated in the OverTheWire games, I cannot publish any credentials to the levels.
+- My solutions for each level are in OverTheWireWargames/
 
 ## Other Problems
 
