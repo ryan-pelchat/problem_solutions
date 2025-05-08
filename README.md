@@ -11,6 +11,7 @@
 
 |Number|Name|Language|Difficulty|Tags|Link|
 |---|---|---|---|---|---|
+|3|Longest Substring Without Repeating Characters|Python3|Medium|Hash Table, String, Sliding Window|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
 
 ## Over the Wire Wargames
 
