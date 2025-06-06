@@ -14,7 +14,8 @@
 |1|Two Sum|Python3|Easy|--|[Link](https://leetcode.com/problems/two-sum/description/)|
 |3|Longest Substring Without Repeating Characters|Python3|Medium|Hash Table, String, Sliding Window|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
 |20|Valid Parentheses|Python3|Easy|--|[Link](https://leetcode.com/problems/valid-parentheses/description/)|
-
+|125|Valid Palindrome|Pyhton3|Easy|Two Pointers, String|[Link](https://leetcode.com/problems/valid-palindrome/description/)|
+|226|Invert Binary Tree|Python3|Easy|Tree, Depth-First Search, Breadth-First Search, Binary Tree|[Link](https://leetcode.com/problems/invert-binary-tree/description/)|
 
 ## Over the Wire Wargames
 
