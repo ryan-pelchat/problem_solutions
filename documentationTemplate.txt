@@ -3,7 +3,7 @@ Problem Title:
 Platform:
 Problem URL:
 Difficulty:
-Category:
+Categories:
 
 Author: Ryan Pelchat
 Date Solved:
