@@ -19,6 +19,7 @@
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|Python3|Easy|Tree, Depth-First Search, Breadth-First Search, Binary Tree|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Array, Prefix Sum|
 |252|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|Python3|Easy|Hash Table, String, Sorting|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Array, Two Pointers|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Two Pointers, String|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)|Python3|Easy|Array, Binary Search|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/)|Python3|Easy|Array, Depth-First Search, Breadth-First Search, Matrix|
