@@ -30,6 +30,7 @@
 - <https://overthewire.org/wargames/>
 - Note, due to the rules stated in the OverTheWire games, I cannot publish any credentials to the levels.
 - My solutions for each level are in OverTheWireWargames/
+- TODO: write down my solutions and publish them
 
 ## Other Problems
 
