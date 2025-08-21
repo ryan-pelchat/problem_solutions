@@ -22,6 +22,7 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Array, Two Pointers|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Array, Greedy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Two Pointers, String|
+|443|[String Compression](https://leetcode.com/problems/string-compression?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Two Pointers, String|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)|Python3|Easy|Array, Binary Search|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/)|Python3|Easy|Array, Depth-First Search, Breadth-First Search, Matrix|
 
