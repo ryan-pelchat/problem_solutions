@@ -13,6 +13,7 @@
 |---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|Python3|Easy|--|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|Python3|Medium|Hash Table, String, Sliding Window|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Python3|Easy|Math|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Array, Two Pointers,Greedy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|Python3|Easy|--|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|Pyhton3|Easy|Two Pointers, String|
