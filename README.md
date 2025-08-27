@@ -26,6 +26,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Two Pointers, String|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Two Pointers, String, Dynamic Programming|
 |443|[String Compression](https://leetcode.com/problems/string-compression?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Two Pointers, String|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Array, Sliding Window|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)|Python3|Easy|Array, Binary Search|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/)|Python3|Easy|Array, Depth-First Search, Breadth-First Search, Matrix|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Array, Hash Table, Two, Pointers, Sorting, Weekly Contest 218|
