@@ -29,6 +29,7 @@
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i?envType=study-plan-v2&envId=leetcode-75)|Python3|Easy|Array, Sliding Window|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)|Python3|Easy|Array, Binary Search|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/)|Python3|Easy|Array, Depth-First Search, Breadth-First Search, Matrix|
+|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|String, Sliding Window, Weekly Contest 190|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs?envType=study-plan-v2&envId=leetcode-75)|Python3|Medium|Array, Hash Table, Two, Pointers, Sorting, Weekly Contest 218|
 
 ## Over the Wire Wargames
